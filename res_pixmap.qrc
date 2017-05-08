@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>work.png</file>
+        <file>gear.png</file>
+        <file>note.png</file>
+        <file>einstein.png</file>
+        <file>mark_1_5.png</file>
+        <file>mark_1_2.png</file>
+        <file>mark_1_4.png</file>
+        <file>mark_1_3.png</file>
+        <file>mark_1_1.png</file>
+        <file>calendar.ico</file>
+    </qresource>
+</RCC>
